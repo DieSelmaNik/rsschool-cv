@@ -23,3 +23,47 @@
 I am a student studying to become an auto mechanic. But since childhood I've liked programming and everything related to it. In the future I want to become a good and accordingly an experienced programmer. Perhaps after frontend I will become a beckend developer. I love working in a team, helping others and improving my skills. I hope that in the future my programming skills will improve and I will make websites and web applications for people.
 
 ---
+
+### Skills
+
+- HTML
+- Git
+- Markdown
+
+---
+
+### Code sample
+
+```html
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <title>Страница 1</title>
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <center><h1>Welcome!</h1></center>
+    <h2>Pass test</h2>
+    <h3>Choose the correct answer</h3>
+    <form>
+      <label>
+        <input type="radio" name="question" value="first" />
+        Penguins live at the South Pole
+      </label>
+      <br />
+      <label>
+        <input type="radio" name="question" value="second" />
+        Penguins live at the North Pole
+      </label>
+      <br />
+      <p><button>Submit</button></p>
+    </form>
+  </body>
+</html>
+```
+
+---
+
+### No work experience
+
+---
