@@ -67,3 +67,19 @@ I am a student studying to become an auto mechanic. But since childhood I've lik
 ### No work experience
 
 ---
+
+### Education:
+
+- **Belorussian-Russian University**
+
+### Courses and trainings:
+
+- #### Rolling Scopes School - Course "JS / FRONT-END" in Web Development
+
+---
+
+### Languages
+
+- English
+- Russian
+- Belorussian
