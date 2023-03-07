@@ -1,1 +1,1 @@
-https://DieSelmaNik.github.io/rsschool-cv/cv
+https://DieSelmaNik.github.io/rsschool-cv/
